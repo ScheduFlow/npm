@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "0.1.0",
+  "description": "npm_module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScheduFlow/npm.git"
+  },
+  "keywords": [
+    "function",
+    "module"
+  ],
+  "author": "ScheduFlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScheduFlow/npm/issues"
+  },
+  "homepage": "https://github.com/ScheduFlow/npm#readme"
+}
